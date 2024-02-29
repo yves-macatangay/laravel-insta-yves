@@ -18,7 +18,7 @@
 
     <script src="https://kit.fontawesome.com/dbc5b98639.js" crossorigin="anonymous"></script>
 
-    <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+    <link rel="stylesheet" href="{{ asset('/css/style.css') }}">
 </head>
 <body>
     <div id="app">
